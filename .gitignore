@@ -36,3 +36,7 @@ fw.dirs
 **/.classpath
 app/release/output-metadata.json
 app/.cxx/
+
+# Auto-generated changelogs for nightlies
+app/src/nightly/res/xml/changelog_master.xml
+app/src/nopebble/res/xml/changelog_master.xml
